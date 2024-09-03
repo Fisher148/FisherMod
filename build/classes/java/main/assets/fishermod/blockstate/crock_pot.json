@@ -1,0 +1,17 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+    "model": "fishermod:block/crock_pot",
+    "uvlock": false,
+    "transform": "forge:default-block"
+    },
+    "variants": {
+      "normal": [{ "model": "fishermod:crock_pot" }],
+      "inventory": [{ "model": "fishermod:crock_pot"}],
+      "facing=north": { "model":"fishermod:crock_pot", "y": 0 },
+      "facing=south": { "model":"fishermod:crock_pot", "y": 180 },
+      "facing=west": { "model":"fishermod:crock_pot", "y": 270 },
+      "facing=east": { "model":"fishermod:crock_pot", "y": 90 }
+  
+    }
+  }

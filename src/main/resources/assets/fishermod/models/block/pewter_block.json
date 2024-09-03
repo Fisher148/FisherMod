@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "fishermod:blocks/pewter_block"
+    }
+ }
+ 

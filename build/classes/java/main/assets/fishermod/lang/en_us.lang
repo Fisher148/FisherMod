@@ -1,0 +1,10 @@
+#Item
+item.ingot_pewter.name=Pewter ingot
+
+#Block
+tile.pewter_block.name=Pewter block
+
+#Entity
+entity.fishermod.wanderer.name=Wanderer
+message.wanderer.ask=I need food!
+message.wanderer.thankyou=Thank you for the food!

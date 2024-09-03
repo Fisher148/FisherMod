@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures":{
+        "layer0": "fishermod:items/ingot_pewter"
+    }
+}
